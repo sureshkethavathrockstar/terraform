@@ -1,3 +1,3 @@
-ami_id = "ami-0f403e3180720dd7e"
+ami_id = "ami-0614680123427b75e"
 instance_type = "t2.micro"
-key_name = "test"
+key_name = "Ram.pem"
