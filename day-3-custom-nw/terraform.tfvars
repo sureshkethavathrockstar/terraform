@@ -1,3 +1,3 @@
-ami_id = "ami-0fd05997b4dff7aac"
+ami_id = "ami-01816d07b1128cd2d"
 instance_type = "t2.micro"
-key_name = "Ram"
+key_name = "apple"
